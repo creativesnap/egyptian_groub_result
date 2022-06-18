@@ -1,0 +1,21 @@
+#result-search-input.result-home {
+  background-position: center center;
+  background-size: cover;
+}
+
+.top-nav-collapse2 {
+  position: relative !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.media-result {
+  height: auto;
+}
+.media-result .blog-info {
+  padding: 20px;
+}
+.media-result .section-btn {
+  margin-top: 10px;
+}/*# sourceMappingURL=result.css.map */
